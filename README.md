@@ -1,8 +1,17 @@
-# 纪念日 App 隐私政策与支持页面
+# 纪念日 App 官网页面
 
-GitHub Pages 站点：
+GitHub Pages 站点根目录：https://limingjobs1.github.io/jinianri-privacy/
 
-- 隐私政策：https://limingjobs1.github.io/jinianri-privacy/
-- 应用支持：https://limingjobs1.github.io/jinianri-privacy/support.html
+## App Store Connect 填写链接
 
-用于「纪念日」iOS 应用在 App Store Connect 填写隐私政策 URL 与支持 URL。
+| 字段 | URL |
+|------|-----|
+| 隐私政策 URL | https://limingjobs1.github.io/jinianri-privacy/ |
+| 技术支持 URL | https://limingjobs1.github.io/jinianri-privacy/support.html |
+| 营销网址 URL | https://limingjobs1.github.io/jinianri-privacy/marketing.html |
+
+## 页面说明
+
+- `index.html` — 隐私政策
+- `support.html` — 技术支持 / 常见问题
+- `marketing.html` — 应用介绍 / 营销页面
